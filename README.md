@@ -24,6 +24,14 @@ You can edit this README using VS Code:
 - Toggle preview (`Ctrl+Shift+V`)
 - Use `Ctrl+Space` for Markdown snippets
 
+## Screenshots
+
+![screen1](https://github.com/user-attachments/assets/9c165b58-22e6-4a1b-937a-792c1de9c93b)
+
+![screen2](https://github.com/user-attachments/assets/c5d079e5-92a7-4aa0-b309-55883fe564e3)
+
+![fullscreenshot](https://github.com/user-attachments/assets/c95ba03a-9686-4128-8e53-463e12d9d502)
+
 ## For More Information
 
 - [VS Code Theme Documentation](https://code.visualstudio.com/docs/getstarted/themes)
