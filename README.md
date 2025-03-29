@@ -1,4 +1,4 @@
-# Clancy Theme (Vs Code)
+# Clancy Theme (Vs Code Theme)
 
 A VS Code theme inspired by Twenty One Pilots' Clancy album cover (main colors: red, yellow, black)
 
