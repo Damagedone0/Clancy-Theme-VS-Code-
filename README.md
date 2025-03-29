@@ -2,6 +2,10 @@
 
 A VS Code theme inspired by Twenty One Pilots' Clancy album cover (main colors: red, yellow, black)
 
+![icon](https://github.com/user-attachments/assets/5b7ee63f-32c3-4a3b-9cd2-cf26251df16d)
+
+
+
 ## Features
 
 - Dark color scheme with red and yellow accents
