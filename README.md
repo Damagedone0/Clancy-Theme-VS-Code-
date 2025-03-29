@@ -39,12 +39,8 @@ You can edit this README using VS Code:
 
 ## Theme Details
 
-**Identifier:** undefined_publisher.clancy-theme  
-**Version:** 0.0.1  
-**Source:** VSIX  
-
-**Categories:**  
-- Themes
+**Version:** 1.0.0  
+ 
 
 ## Recommended Settings
 
