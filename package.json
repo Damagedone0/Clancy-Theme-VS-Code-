@@ -1,0 +1,21 @@
+{
+  "name": "clancy-theme",
+  "displayName": "Clancy Theme (Twenty One Pilots)",
+  "description": "Clancy Album Cover (Twenty One Pilots) inspired theme for VS Code (main colors - red, yellow, black)",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Clancy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Clancy Theme-color-theme.json"
+      }
+    ]
+  }
+}
