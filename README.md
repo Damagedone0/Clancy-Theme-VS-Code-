@@ -43,7 +43,7 @@ You can edit this README using VS Code:
 
 ## Theme Details
 
-**Version:** 1.0.0  
+**Version:** 1.0.2 
  
 
 ## Recommended Settings
